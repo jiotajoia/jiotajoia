@@ -6,7 +6,7 @@ Hello!
 
 - 🌱 I’m currently learning about web development 
 
-## Connections
+## Find Me In
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/gig.lis?utm_source=ig_web_button_share_sheet&igsh=OGQ5ZDc2ODk2ZA==)
 

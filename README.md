@@ -24,7 +24,7 @@ Hello!
 
 ## Find me at
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/gig.lis?utm_source=ig_web_button_share_sheet&igsh=OGQ5ZDc2ODk2ZA==)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor)](https://www.linkedin.com/in/giovanna-lima-a27413228/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/gig.lis?utm_source=ig_web_button_share_sheet&igsh=OGQ5ZDc2ODk2ZA==)
 
 
 <!--
